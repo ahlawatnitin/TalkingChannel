@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903221481115",
+    "project_id": "talking-channel",
+    "storage_bucket": "talking-channel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903221481115:android:64b7b3d7db3693e326003e",
+        "android_client_info": {
+          "package_name": "com.example.talkingchannel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903221481115-2r9muh33hjgb4q5g568n07tsvjiarjgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNNeWXqCmUr6G2kIeR89_1iiVcTAHn3bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903221481115-2r9muh33hjgb4q5g568n07tsvjiarjgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
